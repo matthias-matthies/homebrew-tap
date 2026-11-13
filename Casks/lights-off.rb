@@ -1,6 +1,6 @@
 cask "lights-off" do
-  version "0.1.0"
-  sha256 "01638206b8e46a6436fcd8b4b7728f2b76205b49753fd41713cea5e1b9da57f6"
+  version "0.2.53"
+  sha256 "74f8fb068ee0ebb0641ea5c2a6d43d41c826a961f11d44ed9bbf05893d7c1c14"
 
   url "https://github.com/matthias-matthies/lights-off/releases/download/v#{version}/lights-off_v#{version}_darwin_arm64.tar.gz"
   name "lights-off"
